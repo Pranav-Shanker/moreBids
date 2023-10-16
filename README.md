@@ -5,6 +5,8 @@
 ## Images
 ![image](https://github.com/Pranav-Shanker/moreBids/assets/148027466/47429b56-80d5-4843-811d-c171c2291732)
 ![image](https://github.com/Pranav-Shanker/moreBids/assets/148027466/d8746457-6424-44e4-b89b-eb54a5cb1247)
+![image](https://github.com/Pranav-Shanker/moreBids/assets/148027466/debd8c10-bb11-4304-aa3c-db9657be1591)
+
 
 ## Technologies
 
